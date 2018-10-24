@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/akiemHicks.webp"
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/eddieJackson.webp"
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/kyleFuller.webp"
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/leonardFloyd.webp"
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/roquanSmith.webp"
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/khalilMack.webp"
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/treyBurton.webp"
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/taylorGabriel.webp"
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/allenRobinson.webp"
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/tarikCohen.webp"
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/jordanHoward.webp"
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/mitchellTrubisky.webp"
+    }
+]
